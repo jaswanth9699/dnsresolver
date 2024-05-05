@@ -1,5 +1,10 @@
 # dns-resolver
 DNS resolver from CS Dept(Computer Networks)
+ I developed a Domain Name Resolver that leverages TCP/IP protocols to fetch various DNS records, such as IPv4, IPv6, Name Server, and Mail Server information. The project aimed at providing a more secure way to retrieve DNS information."
+Technical Details:
+● "The resolver was designed to interact directly with DNS servers using TCP/IP protocols, extracting critical information about domain names efficiently."
+● "To enhance security, I implemented DNSSEC within the resolver. This involved validating the cryptographic signatures of DNS records to confirm their integrity and authenticity, thereby offering protection against DNS spoofing attacks.
+
 ### How to run:
 
 My program is ran through the command line. All my tests were done from the console
