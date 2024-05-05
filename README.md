@@ -1,5 +1,5 @@
 # dns-resolver
-DNS resolver from CSE 310 (Computer Networks)
+DNS resolver from CS Dept(Computer Networks)
 ### How to run:
 
 My program is ran through the command line. All my tests were done from the console
