@@ -1,0 +1,35 @@
+QUESTION SECTION:
+www.youtube.com IN A
+
+ANSWER SECTION:
+www.youtube.com. 86400 IN CNAME youtube-ui.l.google.com.
+youtube-ui.l.google.com. 300 IN A 172.217.10.46
+youtube-ui.l.google.com. 300 IN A 172.217.10.110
+youtube-ui.l.google.com. 300 IN A 172.217.10.142
+youtube-ui.l.google.com. 300 IN A 172.217.3.110
+youtube-ui.l.google.com. 300 IN A 172.217.12.142
+youtube-ui.l.google.com. 300 IN A 172.217.6.238
+youtube-ui.l.google.com. 300 IN A 172.217.7.14
+youtube-ui.l.google.com. 300 IN A 172.217.10.238
+youtube-ui.l.google.com. 300 IN A 172.217.11.14
+youtube-ui.l.google.com. 300 IN A 172.217.11.46
+youtube-ui.l.google.com. 300 IN A 172.217.12.174
+youtube-ui.l.google.com. 300 IN A 172.217.12.206
+youtube-ui.l.google.com. 300 IN A 172.217.9.238
+youtube-ui.l.google.com. 300 IN A 172.217.7.14
+youtube-ui.l.google.com. 300 IN A 172.217.10.238
+youtube-ui.l.google.com. 300 IN A 172.217.11.14
+youtube-ui.l.google.com. 300 IN A 172.217.11.46
+youtube-ui.l.google.com. 300 IN A 172.217.12.174
+youtube-ui.l.google.com. 300 IN A 172.217.12.206
+youtube-ui.l.google.com. 300 IN A 172.217.9.238
+youtube-ui.l.google.com. 300 IN A 172.217.10.14
+youtube-ui.l.google.com. 300 IN A 172.217.10.46
+youtube-ui.l.google.com. 300 IN A 172.217.10.78
+youtube-ui.l.google.com. 300 IN A 172.217.3.110
+youtube-ui.l.google.com. 300 IN A 172.217.12.142
+youtube-ui.l.google.com. 300 IN A 172.217.6.238
+
+Query time: 661 msec
+WHEN: Sat Mar 9 14:17:15 2019
+MSG SIZE rcvd: 36
